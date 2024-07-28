@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Python Developer<br>- Young apprentice at Stefanini<br>- Studying IT at Senac</p>
+<p align="left">- Python Developer<br>- Young apprentice at @Stefanini<br>- Studying IT at Senac</p>
 
 ###
 
