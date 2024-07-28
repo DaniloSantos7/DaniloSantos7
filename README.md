@@ -39,7 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DaniloSantos7/DaniloSantos7/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
